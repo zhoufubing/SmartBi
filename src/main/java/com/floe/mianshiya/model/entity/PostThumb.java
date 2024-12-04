@@ -27,6 +27,7 @@ public class PostThumb implements Serializable {
     /**
      * 帖子 id
      */
+//    @TableField(value = "post_id",exist = false)
     private Long postId;
 
     /**
